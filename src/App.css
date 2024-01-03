@@ -1,0 +1,12 @@
+
+
+
+@font-face {
+  font-family: 'Satisfy';
+
+  src: url(/Satisfy-Regular.ttf);
+}
+
+.satisfy{
+  font-family:Satisfy ;
+}
