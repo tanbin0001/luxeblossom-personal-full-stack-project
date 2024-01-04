@@ -16,7 +16,7 @@ const Nav = () => {
                 width="100"
                 height="40"
               />
-              <h2 className="text-2xl font-bold satisfy ">LuxeBlossom</h2>
+              <h2 className="text-2xl font-bold satisfy text-red-500">LuxeBlossom</h2>
              </div>
       
             </Navbar.Brand>
@@ -30,12 +30,12 @@ const Nav = () => {
               <Navbar.Link linkName="About" />
             </Navbar.Container>
             <Navbar.Collapse collapseType="sidebar">
-              <Navbar.Container tag="ul" className="flex flex-col gap-5">
-                <Navbar.Link linkName="Home" />
-                <Navbar.Link linkName="Projects" />
-                <Navbar.Link linkName="Blogs" />
-                <Navbar.Link linkName="News" />
-                <Navbar.Link linkName="Resources" />
+              <Navbar.Container tag="ul" className="flex flex-col gap-5 ">
+                <Navbar.Link  linkName="Home" />
+                <Navbar.Link  linkName="Projects" />
+                <Navbar.Link  linkName="Blogs" />
+                <Navbar.Link  linkName="News" />
+                <Navbar.Link  linkName="Resources" />
               </Navbar.Container>
             </Navbar.Collapse>
           </Navbar.Container>

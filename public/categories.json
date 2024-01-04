@@ -1,0 +1,35 @@
+{
+    "beautyCategories": [
+      {
+        "id": 1,
+        "categoryName": "Skincare",
+        "imgUrl": "https://image.lexica.art/full_webp/c199f1a3-509e-4786-b6a8-32879644df50"
+      },
+      {
+        "id": 2,
+        "categoryName": "Makeup",
+        "imgUrl": "https://image.lexica.art/full_webp/13b9f962-a49b-4712-8368-ca088307d9c5"
+      },
+      {
+        "id": 3,
+        "categoryName": "Haircare",
+        "imgUrl": "https://image.lexica.art/full_webp/1497171d-46fd-4eac-a02b-5aae204e9ac4"
+      },
+      {
+        "id": 4,
+        "categoryName": "Fragrance",
+        "imgUrl": "https://image.lexica.art/full_webp/09f83ed1-fe62-4e08-99ca-a34d0700d8c6"
+      },
+      {
+        "id": 5,
+        "categoryName": "Nail Care",
+        "imgUrl": "https://image.lexica.art/full_webp/b7dda564-84e4-4d28-8b3c-420eb9e310d6"
+      },
+      {
+        "id": 6,
+        "categoryName": "Accessories",
+        "imgUrl": "https://image.lexica.art/full_webp/171d3a93-b473-4a0f-a919-6cb9580dd4f6"
+      }
+    ]
+  }
+  

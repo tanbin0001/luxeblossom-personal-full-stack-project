@@ -2,30 +2,48 @@ import img1 from '../../../assets/banner/slider-1.png'
 import img2 from '../../../assets/banner/slider-2.png'
 import img3 from '../../../assets/banner/slider-3.png'
 
-import { Carousel } from "keep-react";
+
+  
+// Import Swiper React components
+import { Swiper, SwiperSlide } from 'swiper/react';
+
+// Import Swiper styles
+import 'swiper/css';
+import 'swiper/css/pagination';
+import 'swiper/css/navigation';
+
+import './Banner.css';
+
+// import required modules
+import { Autoplay, Pagination, Navigation } from 'swiper/modules';
+
+
+ 
 const Banner = () => {
-    const carouselStyle = { height: '900px' }; // Adjust the height as needed
-
+ 
     return (
-        <Carousel indicatorsType="ring" indicators={true} style={carouselStyle} >
-
-            <img
-                src={img1}
-                alt="slider-1"
-                style={{ height: '100%', width: '100%' }}
-            />
-            <img
-                src={img2}
-                alt="slider-1"
-                style={{ height: '100%', width: '100%' }}
-            />
-            <img
-                src={img3}
-                alt="slider-1"
-                style={{ height: '100%', width: '100%' }}
-            />
-            
-        </Carousel>
+        <>
+        <Swiper
+          spaceBetween={30}
+          centeredSlides={true}
+          autoplay={{
+            delay: 2500,
+            disableOnInteraction: false,
+          }}
+          pagination={{
+            clickable: true,
+          }}
+          navigation={true}
+          modules={[Autoplay, Pagination, Navigation]}
+          className="mySwiper"
+        >
+          <SwiperSlide><img src={img1} alt="" /></SwiperSlide>
+          <SwiperSlide><img src={img2} alt="" /></SwiperSlide>
+          <SwiperSlide><img src={img3} alt="" /></SwiperSlide>
+          
+           
+        </Swiper>
+      </>
     )
 };
 

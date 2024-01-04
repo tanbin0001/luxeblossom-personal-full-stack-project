@@ -6,7 +6,23 @@
 
   src: url(/Satisfy-Regular.ttf);
 }
+@font-face {
+  font-family: 'Marcellus';
+
+  src: url(/Marcellus-Regular.ttf);
+}
+@font-face {
+  font-family: 'Titan One';
+
+  src: url(/TitanOne-Regular.ttf);
+}
 
 .satisfy{
   font-family:Satisfy ;
+}
+.marcellus{
+  font-family:Marcellus ;
+}
+.titanOne{
+  font-family:Titan One ;
 }

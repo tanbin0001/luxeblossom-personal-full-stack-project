@@ -1,0 +1,185 @@
+[{
+  "category": "Fragrance",
+  "products": [
+    {
+      "id": 13,
+      "name": "Eau de Parfum - Floral Bloom",
+      "price": 49.99,
+      "rating": 4.8,
+      "image": "https://image.lexica.art/full_webp/2dca51ca-2072-45f1-a06f-315d7c5b6303",
+      "seller_name": "Scentful Delights",
+      "seller_email": "info@scentfuldelights.com",
+      "description": "Captivating floral bloom Eau de Parfum for a refreshing scent",
+      "available_quantity": 15
+    },
+    {
+      "id": 14,
+      "name": "Cologne - Fresh Citrus",
+      "price": 39.99,
+      "rating": 4.6,
+      "image": "https://image.lexica.art/full_webp/0559d4ce-7998-43a4-bca2-101c29730be4",
+      "seller_name": "CitrusSplash Scents",
+      "seller_email": "info@citrussplashscents.com",
+      "description": "Invigorating fresh citrus cologne for a burst of energy",
+      "available_quantity": 12
+    },
+    {
+      "id": 15,
+      "name": "Perfume Oil - Vanilla Bliss",
+      "price": 29.99,
+      "rating": 4.7,
+      "image": "https://image.lexica.art/full_webp/451509cd-076d-4f74-88e0-bc8b797c5ff1",
+      "seller_name": "VanillaDream Fragrances",
+      "seller_email": "info@vanilladreamfragrances.com",
+      "description": "Luxurious vanilla bliss perfume oil for a warm and comforting scent",
+      "available_quantity": 18
+    },
+    {
+      "id": 16,
+      "name": "Unisex Fragrance - Woodland Essence",
+      "price": 54.99,
+      "rating": 4.9,
+      "image": "https://image.lexica.art/full_webp/7d2c81de-ece7-4f8d-9eb2-819934c2615b",
+      "seller_name": "NatureNotes Scents",
+      "seller_email": "info@naturenotesscents.com",
+      "description": "Unisex woodland essence fragrance for a nature-inspired aura",
+      "available_quantity": 20
+    },
+    {
+      "id": 17,
+      "name": "Body Mist - Tropical Breeze",
+      "price": 19.99,
+      "rating": 4.5,
+      "image": "https://image.lexica.art/full_webp/d28dbe5d-e32f-412d-8d23-5462a284f19d",
+      "seller_name": "TropicalTouches",
+      "seller_email": "info@tropicaltouches.com",
+      "description": "Refreshing tropical breeze body mist for a light and fruity fragrance",
+      "available_quantity": 25
+    },
+    {
+      "id": 18,
+      "name": "Eau de Toilette - Summer Citrus",
+      "price": 29.99,
+      "rating": 4.7,
+      "image": "https://image.lexica.art/full_webp/fd02f574-b528-479e-a065-7ffdabc2c64b",
+      "seller_name": "CitrusScents",
+      "seller_email": "info@citrusscents.com",
+      "description": "Invigorating summer citrus Eau de Toilette for a fresh and uplifting fragrance.",
+      "available_quantity": 15
+    }
+    
+    
+  ]
+},
+    {
+      "category": "Makeup",
+      "products": [
+        {
+          "id": 1,
+          "name": "Matte Lipstick - Ruby Red",
+          "price": 19.99,
+          "rating": 4.5,
+          "image": "https://image.lexica.art/full_webp/48c52209-7927-49e1-b458-74d3789b9fb1",
+          "seller_name": "Glamorous Cosmetics",
+          "seller_email": "info@glamorouscosmetics.com",
+          "description": "Bold and vibrant matte lipstick in Ruby Red",
+          "available_quantity": 15
+        },
+        {
+          "id": 2,
+          "name": "Glossy Lipstick - Nude Glow",
+          "price": 21.99,
+          "rating": 4.2,
+          "image": "https://image.lexica.art/full_webp/3b26e632-caa9-40e5-9e77-14119e36aca4",
+          "seller_name": "ChicStyle Beauty",
+          "seller_email": "info@chicstylebeauty.com",
+          "description": "Shiny and natural glossy lipstick in Nude Glow",
+          "available_quantity": 10
+        },
+        {
+          "id": 3,
+          "name": "Eyeshadow Palette - Neutral Glam",
+          "price": 39.99,
+          "rating": 4.8,
+          "image": "https://image.lexica.art/full_webp/0273cb9a-dab3-4bea-a1db-1989777c1d26",
+          "seller_name": "Glamorous Cosmetics",
+          "seller_email": "info@glamorouscosmetics.com",
+          "description": "Versatile eyeshadow palette for a neutral glamorous look",
+          "available_quantity": 8
+        },
+        {
+          "id": 4,
+          "name": "Glitter Eyeshadow - Sparkling Gold",
+          "price": 29.99,
+          "rating": 4.7,
+          "image": "https://image.lexica.art/full_webp/dbf9d40f-90e7-4515-bd49-c82af7b918c7",
+          "seller_name": "ShineBright Beauty",
+          "seller_email": "info@shinebrightbeauty.com",
+          "description": "Shimmering and sparkling gold glitter eyeshadow",
+          "available_quantity": 12
+        }
+      ]
+    },
+    {
+      "category": "Skincare",
+      "products": [
+        {
+          "id": 8,
+          "name": "Hydrating Serum",
+          "price": 49.99,
+          "rating": 4.9,
+          "image": "https://image.lexica.art/full_webp/17545729-ab0f-4af7-b597-fdc1828d67dc",
+          "seller_name": "Youthful Glow",
+          "seller_email": "info@youthfulglow.com",
+          "description": "Intensive hydrating serum for a youthful and radiant skin",
+          "available_quantity": 15
+        },
+        {
+          "id": 9,
+          "name": "Anti-Aging Cream",
+          "price": 59.99,
+          "rating": 4.7,
+          "image": "https://image.lexica.art/full_webp/0c137b36-1e37-473f-8df9-2ab8beb8c760",
+          "seller_name": "Eternal Beauty",
+          "seller_email": "info@eternalbeauty.com",
+          "description": "Luxurious anti-aging cream to reduce fine lines and wrinkles",
+          "available_quantity": 12
+        },
+        {
+          "id": 10,
+          "name": "Cleansing Oil - Nourishing",
+          "price": 24.99,
+          "rating": 4.5,
+          "image": "https://image.lexica.art/full_webp/077f66d0-ec65-4051-a4af-36d843596610",
+          "seller_name": "PureRadiance",
+          "seller_email": "info@pureradiance.com",
+          "description": "Nourishing cleansing oil for gentle makeup removal",
+          "available_quantity": 20
+        },
+        {
+          "id": 11,
+          "name": "Moisturizing Mask - Overnight",
+          "price": 37.99,
+          "rating": 4.8,
+          "image": "https://image.lexica.art/full_webp/23f9cd74-0ced-4fb6-a16a-4ae2db15bc8a",
+          "seller_name": "DreamySkin",
+          "seller_email": "info@dreamyskin.com",
+          "description": "Overnight moisturizing mask for supple and hydrated skin",
+          "available_quantity": 10
+        },
+        {
+          "id": 12,
+          "name": "Sunscreen SPF 50",
+          "price": 19.99,
+          "rating": 4.6,
+          "image": "https://image.lexica.art/full_webp/06f36cbd-9e26-4dc5-bc62-8692ed249841",
+          "seller_name": "SunSafe",
+          "seller_email": "info@sunsafe.com",
+          "description": "High protection sunscreen with SPF 50 for daily use",
+          "available_quantity": 25
+        }
+      ]
+    }
+    
+  ]
+  

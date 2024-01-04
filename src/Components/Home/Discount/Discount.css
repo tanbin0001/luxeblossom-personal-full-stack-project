@@ -1,0 +1,18 @@
+.background-section {
+    background-image: url('../../../assets/discount banner (2).png'); /* Adjust the path as needed */
+    background-size: cover;
+    height: 700px;
+ 
+ 
+  }
+  
+
+  @media (max-width: 767px) {
+ 
+    .background-section {
+        overflow: hidden;
+    }
+    .lady-image-container{
+        display: none;
+    }
+  }

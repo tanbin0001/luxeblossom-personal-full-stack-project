@@ -7,7 +7,7 @@ function App() {
  
 
   return (
-    <div className='mx-28'>
+    <div className='mx-10'>
       <Nav></Nav>
      <Home/>
     </div>
