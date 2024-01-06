@@ -2,6 +2,7 @@ import { Button, Navbar } from "keep-react";
 
 import { MagnifyingGlass } from "phosphor-react";
 import webIcon from '../../../assets/webicon.png'
+import { Link } from "react-router-dom";
 
 const Nav = () => {
     return (
@@ -16,23 +17,23 @@ const Nav = () => {
                 width="100"
                 height="40"
               />
-              <h2 className="text-2xl font-bold satisfy text-red-500">LuxeBlossom</h2>
+              <h2 className="text-2xl font-bold satisfy text-red-500 mr-5">LuxeBlossom</h2>
              </div>
       
             </Navbar.Brand>
             <Navbar.Divider></Navbar.Divider>
             <Navbar.Container
               tag="ul"
-              className="lg:flex hidden items-center justify-between gap-8"
+              className="xl:flex hidden items-center justify-between gap-8"
             >
-              <Navbar.Link linkName="Home" />
-              <Navbar.Link linkName="Projects" />
+            <Link to='/'>  <Navbar.Link linkName="Makeup" /></Link>
+            <Link to='/clothes'>  <Navbar.Link linkName="Clothes" /></Link>
               <Navbar.Link linkName="About" />
             </Navbar.Container>
             <Navbar.Collapse collapseType="sidebar">
               <Navbar.Container tag="ul" className="flex flex-col gap-5 ">
-                <Navbar.Link  linkName="Home" />
-                <Navbar.Link  linkName="Projects" />
+                <Navbar.Link  linkName="Makeup" />
+                <Link to='/clothes'>  <Navbar.Link linkName="Clothes" /></Link>
                 <Navbar.Link  linkName="Blogs" />
                 <Navbar.Link  linkName="News" />
                 <Navbar.Link  linkName="Resources" />

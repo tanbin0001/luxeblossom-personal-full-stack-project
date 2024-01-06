@@ -1,0 +1,218 @@
+[
+    
+ 
+    {
+        "category": "Tops",
+        "products": [
+          {
+            "id": 301,
+            "name": "Graphic Print T-shirt",
+            "price": 19.99,
+            "rating": 4.3,
+            "image": "https://image.lexica.art/full_webp/83659f14-0f98-4295-8827-58d878ebf32c",
+            "seller_name": "CasualComfort",
+            "seller_email": "info@casualcomfort.com",
+            "description": "Comfortable and stylish graphic print t-shirt for casual wear",
+            "available_quantity": 30
+          },
+          {
+            "id": 302,
+            "name": "Silk Blouse - Ivory",
+            "price": 39.99,
+            "rating": 4.8,
+            "image": "https://image.lexica.art/full_webp/4f83a251-75aa-4901-b958-fce7ec919f03",
+            "seller_name": "ElegantStyles",
+            "seller_email": "info@elegantstyles.com",
+            "description": "Elegant silk blouse in ivory for a sophisticated look",
+            "available_quantity": 25
+          },
+          {
+            "id": 303,
+            "name": "Striped Button-down Shirt",
+            "price": 29.99,
+            "rating": 4.5,
+            "image": "https://image.lexica.art/full_webp/3239134b-a3eb-47e5-9a3f-2a4542e78a3f",
+            "seller_name": "StripesAndStyle",
+            "seller_email": "info@stripesandstyle.com",
+            "description": "Classic striped button-down shirt for a timeless wardrobe staple",
+            "available_quantity": 40
+          },
+          {
+            "id": 304,
+            "name": "Cozy Knit Sweater",
+            "price": 49.99,
+            "rating": 4.7,
+            "image": "https://cdn.leonardo.ai/users/bde48d21-deca-4edf-b725-e52b4a2d2b73/generations/ec805631-c72a-4414-b63c-28b53a186224/Leonardo_Diffusion_XL_Cozy_Knit_Sweater_girl_full_screen_1.jpg",
+            "seller_name": "WarmWardrobe",
+            "seller_email": "info@warmwardrobe.com",
+            "description": "Soft and cozy knit sweater for chilly days",
+            "available_quantity": 15
+          },
+          {
+            "id": 305,
+            "name": "Hooded Pullover",
+            "price": 34.99,
+            "rating": 4.6,
+            "image": "https://image.lexica.art/full_webp/0f23bf8b-609d-4931-a020-1dd460f41ebe",
+            "seller_name": "SportyChic",
+            "seller_email": "info@sportychic.com",
+            "description": "Casual hooded pullover for a sporty and comfortable style",
+            "available_quantity": 22
+          },
+          {
+            "id": 306,
+            "name": "Lace Trim Camisole",
+            "price": 24.99,
+            "rating": 4.2,
+            "image": "https://example.com/images/lace_trim_camisole.jpg",
+            "seller_name": "FeminineTouches",
+            "seller_email": "info@femininetouches.com",
+            "description": "Delicate lace trim camisole for a touch of femininity",
+            "available_quantity": 28
+          }
+        ]
+    },
+    {
+        "category": "Jackets, Coats, Blazers",
+        "products": [
+          {
+            "id": 501,
+            "name": "Leather Biker Jacket",
+            "price": 89.99,
+            "rating": 4.5,
+            "image": "https://image.lexica.art/full_webp/100514f9-87bd-4d45-97d7-0924ac03f687",
+            "seller_name": "UrbanEdge",
+            "seller_email": "info@urbanedge.com",
+            "description": "Stylish leather biker jacket for a rugged and edgy look",
+            "available_quantity": 18
+          },
+          {
+            "id": 502,
+            "name": "Wool Blend Coat",
+            "price": 129.99,
+            "rating": 4.8,
+            "image": "https://image.lexica.art/full_webp/00dc90d6-005f-4928-9b73-ab77747470dc",
+            "seller_name": "ClassicStyles",
+            "seller_email": "info@classicstyles.com",
+            "description": "Timeless wool blend coat for a sophisticated and warm ensemble",
+            "available_quantity": 12
+          },
+          {
+            "id": 503,
+            "name": "Structured Blazer",
+            "price": 69.99,
+            "rating": 4.7,
+            "image": "https://image.lexica.art/full_webp/58d69226-0539-4083-9746-113c8bfb120f",
+            "seller_name": "ChicElegance",
+            "seller_email": "info@chicelegance.com",
+            "description": "Elegant structured blazer for a polished and professional look",
+            "available_quantity": 15
+          },
+          {
+            "id": 504,
+            "name": "Quilted Puffer Jacket",
+            "price": 79.99,
+            "rating": 4.4,
+            "image": "https://image.lexica.art/full_webp/05b09b12-f749-4603-867b-21947a14396b",
+            "seller_name": "WinterWarmth",
+            "seller_email": "info@winterwarmth.com",
+            "description": "Cozy quilted puffer jacket for extra warmth in cold weather",
+            "available_quantity": 20
+          },
+          {
+            "id": 505,
+            "name": "Denim Jacket",
+            "price": 49.99,
+            "rating": 4.6,
+            "image": "https://image.lexica.art/full_webp/0ec5911b-9a43-4f13-b43f-b6938c8e76cb",
+            "seller_name": "CasualDenim",
+            "seller_email": "info@casualdenim.com",
+            "description": "Versatile denim jacket for a casual and trendy style",
+            "available_quantity": 25
+          },
+          {
+            "id": 506,
+            "name": "Longline Trench Coat",
+            "price": 99.99,
+            "rating": 4.9,
+            "image": "https://image.lexica.art/full_webp/afb02e42-9a6a-40b3-a65e-fc177b7cce7f",
+            "seller_name": "TimelessTrench",
+            "seller_email": "info@timelesstrench.com",
+            "description": "Classic longline trench coat for a timeless and sophisticated look",
+            "available_quantity": 15
+          }
+        ]
+      },
+      {
+        "category": "Hoodies",
+        "products": [
+          {
+            "id": 601,
+            "name": "Graphic Print Hoodie",
+            "price": 34.99,
+            "rating": 4.6,
+            "image": "https://image.lexica.art/full_webp/28c23ff1-cb41-42d8-8d8e-3c20746d0303",
+            "seller_name": "StreetStyleCo",
+            "seller_email": "info@streetstyleco.com",
+            "description": "Casual and trendy graphic print hoodie for street style vibes",
+            "available_quantity": 28
+          },
+          {
+            "id": 602,
+            "name": "Fleece-lined Pullover Hoodie",
+            "price": 44.99,
+            "rating": 4.7,
+            "image": "https://image.lexica.art/full_webp/20b363b6-f3a7-40e1-b3ef-bf323c44901f",
+            "seller_name": "CozyComforts",
+            "seller_email": "info@cozycomforts.com",
+            "description": "Warm and cozy fleece-lined pullover hoodie for chilly days",
+            "available_quantity": 20
+          },
+          {
+            "id": 603,
+            "name": "Zip-up Hooded Sweatshirt",
+            "price": 39.99,
+            "rating": 4.5,
+            "image": "https://image.lexica.art/full_webp/39ac8ca4-d6b9-4f94-93f5-2feda8da5edf",
+            "seller_name": "ActiveEssentials",
+            "seller_email": "info@activeessentials.com",
+            "description": "Sporty zip-up hooded sweatshirt for an active and stylish look",
+            "available_quantity": 22
+          },
+          {
+            "id": 604,
+            "name": "Oversized Hoodie Dress",
+            "price": 49.99,
+            "rating": 4.8,
+            "image": "https://image.lexica.art/full_webp/a07351d2-54ca-484a-9de2-0b8cbf101259",
+            "seller_name": "UrbanChic",
+            "seller_email": "info@urbanchic.com",
+            "description": "Fashionable oversized hoodie dress for a trendy and comfortable style",
+            "available_quantity": 15
+          },
+          {
+            "id": 605,
+            "name": "Printed Crop Hoodie",
+            "price": 29.99,
+            "rating": 4.4,
+            "image": "https://image.lexica.art/full_webp/5624a795-3f2e-4121-ba04-a6b5b7f2562b",
+            "seller_name": "TrendyPrints",
+            "seller_email": "info@trendyprints.com",
+            "description": "Stylish printed crop hoodie for a chic and modern look",
+            "available_quantity": 25
+          },
+          {
+            "id": 606,
+            "name": "Sherpa-Lined Hooded Jacket",
+            "price": 54.99,
+            "rating": 4.9,
+            "image": "https://image.lexica.art/full_webp/d2eb1af4-ae98-4f7d-bb4b-06a27ffa3b73",
+            "seller_name": "WinterWarmers",
+            "seller_email": "info@winterwarmers.com",
+            "description": "Warm sherpa-lined hooded jacket for cold weather comfort",
+            "available_quantity": 18
+          }
+        ]
+      }
+  ]
+  

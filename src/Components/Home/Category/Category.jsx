@@ -39,7 +39,7 @@ const Category = ({ category }) => {
   return (
     <div className="category-container">
       <Card
-        className={`lg:w-52 sm:w-32 overflow-hidden rounded-full transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300   ${
+        className={`xl:w-52 sm:w-52 overflow-hidden rounded-full transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300   ${
           isHovered ? "hovered" : ""
         }`}
         onMouseEnter={() => setIsHovered(true)}

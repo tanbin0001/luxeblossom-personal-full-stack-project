@@ -26,7 +26,7 @@ const TopProducts = () => {
         <div className="my-20">
              <h1 className="flex items-center justify-center rounded-md  text-white text-3xl bg-red-500  mx-auto my-10 marcellus   w-52 h-10">New Products</h1>
               <Tabs className=''>
-              <div className="  justify-center text-2xl flex lg:w-[700px] p-1 text-center mx-auto mb-5  ">
+              <div className="  justify-center text-2xl flex lg:w-[700px] p-1  text-center mx-auto mb-5  ">
                     {topProducts.map((category) => (
                        <Tab
                        key={category.category}
@@ -40,7 +40,7 @@ const TopProducts = () => {
                 {topProducts.map((category) => (
                     <TabPanel key={category.category}>
                         <div className="flex justify-center">
-                            <div className="grid lg:grid-cols-3 gap-10">
+                            <div className="grid xl:grid-cols-3 gap-10">
                                 {category.products.map((product) => (
                                     <div className="pl-3 " key={product.name}>
                                       

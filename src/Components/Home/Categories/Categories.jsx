@@ -14,7 +14,8 @@ const Categories = () => {
     return (
         <div className="my-20 "  >
             <h1 className="text-6xl  mb-24 satisfy text-center text-red-500">Categories</h1>
-       <div className="lg:flex  justify-between">
+       <div className="xl:flex mx-20  
+        justify-between">
        {categories.map((category, index) => (
           <Category key={category.id} category={category}></Category>
         ))}
